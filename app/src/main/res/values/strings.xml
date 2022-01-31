@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ShoeStoreUdacity</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="go_to_instructions">Go to instructions</string>
+    <string name="welcome_text_two">Welcome text two</string>
+    <string name="welcome_text_one">Welcome text one</string>
+    <string name="shoe_list_scroll_view">Shoe list scroll view</string>
+    <string name="floating_action_tbutton_to_shoe_detail">Floating action tbutton to shoe detail</string>
+    <string name="shoe_description">Shoe description</string>
+    <string name="shoe_size">Shoe size</string>
+    <string name="enter_name_of_shoe">Enter name of shoe</string>
+    <string name="name_of_shoe">Name of shoe</string>
+    <string name="shoe_name">Shoe name</string>
+    <string name="enter_company_name">Enter company name</string>
+    <string name="enter_shoe_size">Enter shoe size</string>
+    <string name="enter_shoe_description_text">Enter shoe description</string>
+    <string name="shoe_description_detail_text">Shoe description detail</string>
+    <string name="company_detail">Company</string>
+    <string name="shoe_size_label">Shoe size</string>
+    <string name="name_of_company_text">Name of company</string>
+    <string name="shoe_size_detail_text">Shoe size detail</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="instruction_text_two">Instruction text two</string>
+    <string name="go_to_shoe_lists">Go to shoe lists</string>
+    <string name="instruction_text_one">Instruction text one</string>
+    <string name="image_of_shoe">Image of shoe</string>
+    <string name="logout">Logout</string>
+</resources>
