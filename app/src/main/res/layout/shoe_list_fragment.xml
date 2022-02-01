@@ -42,25 +42,13 @@
                     android:id="@+id/textViewShoeListShoeName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/shoe_name" />
-
-                <TextView
-                    android:id="@+id/textViewShoeListShoeCompany"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/name_of_company_text" />
+                    android:text="" />
 
                 <TextView
                     android:id="@+id/textViewShoeListShoeSize"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/shoe_size" />
-
-                <TextView
-                    android:id="@+id/textViewShoeListShoeDescription"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/shoe_description" />
+                    android:text="" />
 
             </LinearLayout>
         </ScrollView>
